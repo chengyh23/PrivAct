@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxx-b31b1b.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2602.13840-b31b1b.svg)](https://arxiv.org/abs/2602.13840)
 
 </div>
 
@@ -66,7 +66,12 @@ bash scripts/run_pipeline.sh
 If you find this repository useful, please consider citing our paper:
 
 ```bibtex
-
+@article{cheng2026privact,
+  title={PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training},
+  author={Cheng, Yuhan and Ye, Hancheng and Li, Hai Helen and Sun, Jingwei and Chen, Yiran},
+  journal={arXiv preprint arXiv:2602.13840},
+  year={2026}
+}
 ```
 
 
